@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactfinalshoplaneproject/static/css/main.b09bb238.chunk.css",
+    "main.js": "/reactfinalshoplaneproject/static/js/main.dc36705a.chunk.js",
+    "main.js.map": "/reactfinalshoplaneproject/static/js/main.dc36705a.chunk.js.map",
+    "runtime-main.js": "/reactfinalshoplaneproject/static/js/runtime-main.05efe457.js",
+    "runtime-main.js.map": "/reactfinalshoplaneproject/static/js/runtime-main.05efe457.js.map",
+    "static/css/2.47c428b5.chunk.css": "/reactfinalshoplaneproject/static/css/2.47c428b5.chunk.css",
+    "static/js/2.9b18cdba.chunk.js": "/reactfinalshoplaneproject/static/js/2.9b18cdba.chunk.js",
+    "static/js/2.9b18cdba.chunk.js.map": "/reactfinalshoplaneproject/static/js/2.9b18cdba.chunk.js.map",
+    "static/js/3.e5d47578.chunk.js": "/reactfinalshoplaneproject/static/js/3.e5d47578.chunk.js",
+    "static/js/3.e5d47578.chunk.js.map": "/reactfinalshoplaneproject/static/js/3.e5d47578.chunk.js.map",
+    "index.html": "/reactfinalshoplaneproject/index.html",
+    "static/css/2.47c428b5.chunk.css.map": "/reactfinalshoplaneproject/static/css/2.47c428b5.chunk.css.map",
+    "static/css/main.b09bb238.chunk.css.map": "/reactfinalshoplaneproject/static/css/main.b09bb238.chunk.css.map",
+    "static/js/2.9b18cdba.chunk.js.LICENSE.txt": "/reactfinalshoplaneproject/static/js/2.9b18cdba.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/reactfinalshoplaneproject/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05efe457.js",
+    "static/css/2.47c428b5.chunk.css",
+    "static/js/2.9b18cdba.chunk.js",
+    "static/css/main.b09bb238.chunk.css",
+    "static/js/main.dc36705a.chunk.js"
+  ]
+}
